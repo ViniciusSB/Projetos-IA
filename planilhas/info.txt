@@ -1,0 +1,4 @@
+instruçoes retiradas de:
+https://pt.linkedin.com/pulse/manipulando-planilhas-do-google-usando-python-renan-pessoa
+
+nota: é preciso um json criado a partir do google developers para que o programa tenha acesso a planilha.
